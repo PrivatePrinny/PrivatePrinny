@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrivatePrinny
 - 👀 I’m interested in .NET, PHP and Javascript
-- 🌱 I’m currently learning app development in .NET MAUI
+- 🌱 I’m currently learning Laminas
 - 💞️ I’m not actively looking to collaborate on anything
 - 📫 How to reach me 
 
